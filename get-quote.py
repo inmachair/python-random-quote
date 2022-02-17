@@ -8,4 +8,4 @@ def main():
   #print(python3 get-quote.py)
 
 if __name__== "__main__":
-  main(python3 get-quote.py)
+  main()
